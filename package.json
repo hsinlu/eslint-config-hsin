@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-hsin",
+  "version": "1.0.0",
+  "description": "ESLint Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "hsin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hsinlu/eslint-config-hsin.git"
+  },
+  "author": {
+    "name": "hsinlu",
+    "email": "hsinlu@live.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  }
+}
